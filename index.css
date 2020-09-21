@@ -1,0 +1,109 @@
+.bus{
+	text-align: center;
+	margin-top:2% ;
+}
+body{
+	background: #D24000;
+	background-repeat: no-repeat;
+
+	background-size: cover;
+  }
+  .heading-container{
+	width: 90%;
+	height: 80%;
+	margin: 100px auto;
+	position: relative;
+  }
+  .heading-container h1{
+	font-family: 'Karla', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	font-size: 54px;
+	padding-bottom: 12px;
+	border-bottom: 2px solid black;
+	text-align: center;
+  }
+  .user-img{
+	width: 60px;
+	height: 60px;
+	border-radius: 150px;
+	float: left;
+	margin-right: 0.6em;
+  }
+  .author{
+	color: black;
+	font-size: 20px;
+  }
+  .date{
+	color: black;
+	margin-top: -1.5em;
+	font-size: 12px;
+	padding-left: 10px;
+  }
+  .fa-heart-o{
+	color: black;
+	padding-left: 1em;
+	margin-right: 1em;
+  
+  }
+  .follow{
+	border: 1.5px solid black;
+	border-radius: 4px;
+	color: black;
+	background: transparent;
+	padding: 2px 8px 2px 8px;
+	margin-bottom: 0.5%;
+  }
+  a{
+	float: right;
+  }
+  .fa-bookmark-o{
+	
+	color: black;
+	font-size: 14px;
+	margin-right: 0.5em;
+  }
+  .fa-facebook{
+  
+	color: black;
+	font-size: 14px;
+	margin-right: 0.5em;
+  }
+  
+  .fa-twitter{
+  
+	color: black;
+	font-size: 14px;
+	margin-right: 0.5em;
+  }
+  .fa-share-alt{
+  
+	color: black;
+	font-size: 14px;
+	margin-right: 0.5em;
+  }
+  .content{
+	background-color: #2c2121;
+	
+	width: 88%;
+	height: 700px;
+	margin: 100px auto;
+	position: relative;
+	color: #fff;
+	overflow: scroll;
+	padding: 15px 15px 15px 20px;
+	font-size: 24px;
+	margin-top: 5%;
+	margin-left: 5%;
+	color: black;
+	background-color: #fff;
+	background-color: rgba(255,255,255,0.6);
+  }
+  .content::-webkit-scrollbar {
+	display: none;
+  }
+  .intro{
+	background-color: #fff;
+	  background-color: rgba(255,255,255,0.4);
+	  
+  }
